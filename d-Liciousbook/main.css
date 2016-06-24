@@ -1,0 +1,96 @@
+/*
+
+index.html
+
+*/
+
+.navbar-color-width {
+	background-color: #3b5998;
+	height: 100px;
+}
+.main-font {
+	color: white;
+	font-size: 45px;
+	padding-left: 50px;
+}
+
+.barwidth-secure {
+	width: 150px;
+	height: 30px;
+
+}
+
+.barwidth-name {
+	width: 90px;
+	height: 50px;
+}
+
+.padding-nav{
+	padding-right: 30px;
+}
+
+.search-bar {
+	width: 300px;
+}
+
+/*
+
+about.html
+
+*/
+
+.navbar-color-only {
+	background-color: #3b5998;
+}
+.navbar-text {
+	color: white;
+	font-family: helvetica; 
+	font-size: 25px;
+}
+.padding-coverpage {
+	padding-left: 300px;
+}
+.profile-pic {
+	position: absolute;
+	bottom: 0;
+	top: 340px;
+	left: 450px;
+}
+#profile-pic-size {
+    height: auto; 
+    width: auto; 
+    max-width: 100px; 
+    max-height: 100px;
+}
+#about-text {
+	text-align: center;
+}
+#swagfile-btn {
+	padding-bottom: 20px;
+}
+.border {
+border: 2.5px solid black;
+}
+.align {
+	align: center;
+}
+
+/*
+
+edit_profile.html
+
+*/
+
+.larger-box {
+	height: 250px;
+	width: 450px;
+}
+.btn-size {
+	height: 100px;
+	width: 300px;
+	color: white;
+	background-color: green;
+}
+.btn-align {
+	padding-left: 425px;
+}
